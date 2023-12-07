@@ -1,4 +1,4 @@
-console.log('script')
+// console.log('script')
 
 // const message = 'Default text'
 
@@ -10,4 +10,4 @@ console.log('script')
 
 // export default message
 
-export { default as Hello } from './test2'
+export default () => console.log('Hello world')
