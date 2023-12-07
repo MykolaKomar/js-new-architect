@@ -1,4 +1,5 @@
-console.log('script')
+// Урок 2 ЕКСПОРТ та ІМПОРТ
+// console.log('script')
 
 // const message = 'Default text'
 
@@ -10,4 +11,4 @@ console.log('script')
 
 // export default message
 
-export { default as Hello } from './test2'
+// export { default as Hello } from './test2'
